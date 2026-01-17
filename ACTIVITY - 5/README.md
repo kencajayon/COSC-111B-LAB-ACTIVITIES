@@ -23,15 +23,15 @@ The goal of this activity is to control multiple LEDs connected to an Arduino bo
 
   The Arduino sketch listens for serial input and performs the following actions:
 
-  - R/r → Toggle Red LED ON or OFF
+  - R/r - Toggle Red LED ON or OFF
 
-  - G/g → Toggle Green LED ON or OFF
+  - G/g - Toggle Green LED ON or OFF
 
-  - B/b → Toggle Blue LED ON or OFF
+  - B/b - Toggle Blue LED ON or OFF
 
-  - A/a → Turn ALL LEDs ON
+  - A/a - Turn ALL LEDs ON
 
-  - O/o → Turn ALL LEDs OFF
+  - O/o - Turn ALL LEDs OFF
 
 Any other input returns an error message
 
