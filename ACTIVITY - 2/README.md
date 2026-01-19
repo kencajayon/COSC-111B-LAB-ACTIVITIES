@@ -21,4 +21,4 @@ A while() loop is used to set the pin modes and control the LED sequence.
 The LEDs turn ON with increasing brightness from pin 12 to pin 8, with a 1-second delay.
 After all LEDs reach maximum brightness, they turn OFF one by one in the same order.
 
-  The function analogWrite() is used to control the brightness of each LED.
+- The function analogWrite() is used to control the brightness of each LED.
