@@ -20,7 +20,7 @@
 
   - The signal represents the assigned group number
 
-  The Arduino:
+- The Arduino:
 
   - Does NOT make HTTP requests
 
