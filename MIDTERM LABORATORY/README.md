@@ -60,3 +60,5 @@ The system uses a photoresistor (LDR) to measure light intensity and automatical
   - Low: 71%
 
   - High: 100%
+ 
+  
